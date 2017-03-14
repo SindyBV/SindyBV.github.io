@@ -16,7 +16,7 @@ img {
 }
 /* TYPOGRAPHY */
 body, h1, h2, h3, h4, h5, h6, p, a {
-	background-color:inherit;
+/*	background-color:inherit;*/
 	color: #b3b3b3;
 	font-size: 12px;
 	font-family: helvetica, arial, tahoma, verdana, sans-serif;
